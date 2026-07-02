@@ -1,0 +1,2 @@
+[tool.vercel]
+entrypoint = "data_analysis.py"
